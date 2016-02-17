@@ -1,5 +1,7 @@
 body{
 	background: blue;
+	width: 500px;
+	margin: 0 auto;
 }
 p{
 	font-size: 2em;
